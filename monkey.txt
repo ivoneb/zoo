@@ -4,4 +4,6 @@ There are different types, such as apes and chimpanzees.
 Monkeys climb trees.
 master branch last line change.
 Bugfix last line change.
+This line is changed.
+Monkeys eat bananas.
 
